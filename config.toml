@@ -65,7 +65,7 @@ enableGitInfo = false
   # Details for the Contact Widget
   email = "akriwoluzky@diw.de"
   address = "Mohrenstraße 58, 10117 Berlin, Germany
-  office_hours = """
+  office_hours = ""
   
   """
   phone = ""
