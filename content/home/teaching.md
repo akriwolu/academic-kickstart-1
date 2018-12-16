@@ -17,8 +17,12 @@ weight = 60
 **Past Teaching**
 
 * Applied Macroeconometrics (B.Sc. / M.Sc.)
+* Bayesian DSGE Model Estimation (Ph.D.)
 * Dynamic Macroeconomics (M.Sc. / Ph.D.)
 * Interactions of Fiscal and Monetary Policy (M.Sc.)
+* Introduction into Quantitative Macroeconomics (B.A.)
 * Monetary Economics (B.Sc / M.Sc.)
+* Monetary Macro and Beyond: Faust II (B.A.)
+* Topics in Macroeconomics (Ph.D.)
 
 
