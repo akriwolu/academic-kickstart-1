@@ -31,14 +31,14 @@ list_format = 0
 #  4: Technical report
 #  5: Book
 #  6: Book chapter
-publication_type = "-1"
+publication_type = "2"
 
 # Exclude publications that are shown in the Selected Publications widget?
 exclude_selected = false
 +++
 
 Monetary-fiscal policy interaction and fiscal inflation: A Tale of three countries, (with Martin
-Kliem and Samad Sarferaz), **European Economic Review**, 88, 158-184, 2016
+Kliem and Samad Sarferaz), **European Economic Review**, 88, 158-184, 2016.
 
 
 
