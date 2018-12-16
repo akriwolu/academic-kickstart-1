@@ -11,12 +11,6 @@ title = "Working Paper"
 subtitle = ""
 
 # Order that this section will appear in.
-weight = 60
+weight = 50
 
 +++
-**Past Teaching**
-
-* Applied Macroeconometrics (B.Sc. / M.Sc.)
-* Dynamic Macroeconomics (M.Sc. / Ph.D.)
-* Interactions of Fiscal and Monetary Policy (M.Sc.)
-* Monetary Economics (B.Sc / M.Sc.)
