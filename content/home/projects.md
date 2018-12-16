@@ -11,6 +11,8 @@ subtitle = ""
 weight = 50
 
 # Content.
+* eins
+* zwei
 # Display content from the following folder.
 # For example, `folder = "project"` displays content from `content/project/`.
 folder = "project"
