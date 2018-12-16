@@ -1,0 +1,15 @@
+abstract = ""
+authors = ["Martin Kliem", "Alexander Kriwoluzky", "Samad Sarferaz"]
+date = "2016-05-01"
+image = ""
+image_preview = ""
+math = false
+publication = "**Journal of Applied Econometrics**, 31(3), 566-583."
+title = "On the low-frequency relationship between inflation and public deficits"
+url_code = ""
+url_dataset = ""
+url_pdf = "files/diwcvlong_eng_akriwoluzky.pdf"
+
+[[url_custom]]
+    name = "Custom Link"
+    url = "https://onlinelibrary.wiley.com/doi/full/10.1002/jae.2427"
