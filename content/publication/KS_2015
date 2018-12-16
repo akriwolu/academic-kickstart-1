@@ -1,0 +1,15 @@
+abstract = ""
+authors = [ "Alexander Kriwoluzky", "Christian Stoltenberg"]
+date = "2015-05-01"
+image = ""
+image_preview = ""
+math = false
+publication = "**Economic Journal**, 125(587), 1452-1473"
+title = "Monetary policy and the transaction role for money"
+url_code = ""
+url_dataset = ""
+url_pdf = "files/diwcvlong_eng_akriwoluzky.pdf"
+
+[[url_custom]]
+    name = "Custom Link"
+    url = "https://onlinelibrary.wiley.com/doi/full/10.1111/ecoj.12151/"
