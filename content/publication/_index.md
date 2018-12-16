@@ -1,6 +1,6 @@
 +++
  title = "Publications"
- date = 2018-01-01
+ date = 2018-04-20
 
 # List format.
 #   0 = Simple
