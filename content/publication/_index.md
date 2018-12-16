@@ -8,7 +8,7 @@
 #   2 = APA
 #   3 = MLA
 #   4 = Stream
-0 list_format = 1
+ list_format = 1
 
 # Optional featured image (relative to `static/img/` folder).
  [header]
