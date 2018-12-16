@@ -12,7 +12,7 @@ subtitle = ""
 weight = 20
 
 # Number of publications to list.
-count = 100
+count = 15
 
 # List format.
 #   0 = Simple
@@ -31,7 +31,7 @@ list_format = 0
 #  4: Technical report
 #  5: Book
 #  6: Book chapter
-publication_type = ""
+publication_type = "2"
 
 # Exclude publications that are shown in the Selected Publications widget?
 exclude_selected = false
