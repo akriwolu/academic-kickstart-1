@@ -305,7 +305,7 @@ enableGitInfo = false
 
 [[menu.main]]
   name = "Working Paper"
-  url = "#posts"
+  url = "#working_paper"
   weight = 3
 
 [[menu.main]]
