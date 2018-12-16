@@ -34,4 +34,4 @@ weight = 5
 +++
 
 # Biography
-CV
+{{% staticref "files/diwcvlong_eng_akriwoluzky.pdf" %}}Download my CV{{% /staticref %}}
