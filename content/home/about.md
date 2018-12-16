@@ -21,12 +21,12 @@ weight = 5
   #institution = "Stanford University"
   #year = 2012
 
-[[education.courses]]
+#[[education.courses]]
   #course = "MEng in Artificial Intelligence"
   #institution = "Massachusetts Institute of Technology"
   #year = 2009
 
-[[education.courses]]
+#[[education.courses]]
   #course = "BSc in Artificial Intelligence"
   #institution = "Massachusetts Institute of Technology"
   #year = 2008
@@ -34,4 +34,4 @@ weight = 5
 +++
 
 # Biography
-
+CV
