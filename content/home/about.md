@@ -21,7 +21,7 @@ weight = 5
   institution = "Humboldt-Universität zu Berlin"
   year = 2009
 
-#[[education.courses]]
+[[education.courses]]
   course = "M.Sc. in Economics"
   institution = "Humboldt-Universität zu Berlin"
   year = 2004
