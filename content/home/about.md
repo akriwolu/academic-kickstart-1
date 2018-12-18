@@ -22,9 +22,9 @@ weight = 5
   year = 2009
 
 #[[education.courses]]
-  #course = "M.Sc. in Economics"
-  #institution = "Humboldt-Universität zu Berlin"
-  #year = 2004
+  course = "M.Sc. in Economics"
+  institution = "Humboldt-Universität zu Berlin"
+  year = 2004
 
 #[[education.courses]]
   #course = "BSc in Artificial Intelligence"
