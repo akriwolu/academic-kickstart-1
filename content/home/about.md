@@ -34,5 +34,6 @@ weight = 5
 +++
 
 # Biography
-I am the head of the depertment of macroeconomics at the German Institute for Economic Research in Berlin. 
+I am the head of the Department of Macroeconomics at the German Institute for Economic Research in Berlin and Professor of Monetary Economics at the Martin-Luther University in Halle-Wittenberg. 
+
 {{% staticref "files/diwcvlong_eng_akriwoluzky.pdf" %}}Download my CV{{% /staticref %}}
