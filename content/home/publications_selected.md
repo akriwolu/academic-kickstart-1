@@ -10,7 +10,7 @@ title = "Working Paper"
 subtitle = ""
 
 # Order that this section will appear in.
-weight = 25
+weight = 20
 
 # List format.
 #   0 = Simple
