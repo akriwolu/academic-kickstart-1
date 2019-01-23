@@ -36,4 +36,4 @@ weight = 5
 # Biography
 I am the head of the Department of Macroeconomics at the German Institute for Economic Research in Berlin and Professor of Monetary Economics at the Martin-Luther University in Halle-Wittenberg. I also serve as associate editor at the European Economic Review.
 
-{{% staticref "files/CV_Kriwoluzky_01_19.pdf" %}}Download my CV{{% /staticref %}}
+{{% staticref "files/citations/CV_Kriwoluzky_01_19.pdf" %}}Download my CV{{% /staticref %}}
