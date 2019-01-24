@@ -49,12 +49,13 @@ url_source = ""
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
 [[url_custom]]
-name = "CEPR Discussion Paper"
-url = "https://cepr.org/active/publications/discussion_papers/dp.php?dpno=12965"
+name = "Working Paper"
+url = "https://oc.diw.de/remote.php/webdav/Webpage/Exit_March2018.pdf"
 
-[[url_custom]]
-name = "DIW Discussion Paper"
-url = "https://www.diw.de/documents/publikationen/73/diw_01.c.591504.de/dp1740.pdf"
+
+# [[url_custom]]
+# name = "DIW Discussion Paper"
+# url = "https://www.diw.de/documents/publikationen/73/diw_01.c.591504.de/dp1740.pdf"
 
 # Does the content use math formatting?
 math = true
