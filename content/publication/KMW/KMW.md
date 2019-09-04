@@ -18,7 +18,7 @@ authors = ["Alexander Kriwoluzky" , "Gernot Mueller" ,"Martin Wolf" ]
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = ""
+publication = = "**Journal of International Economics**, forthcoming"
 #publication_short = ""
 
 # Abstract and optional shortened version.
@@ -48,9 +48,6 @@ url_source = ""
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
-[[url_custom]]
-name = "Working Paper"
-url = "https://oc.diw.de/remote.php/webdav/Webpage/Exit_March2018.pdf"
 
 
 # [[url_custom]]
