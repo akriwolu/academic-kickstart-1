@@ -1,6 +1,6 @@
 +++
 title = "Exit expectations in currency unions"
-date = "2018-08-01"
+date = "2019-09-01"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 
