@@ -18,7 +18,7 @@ authors = ["Alexander Kriwoluzky" , "Gernot Mueller" ,"Martin Wolf" ]
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = = "**Journal of International Economics**, forthcoming"
+publication = "**Journal of International Economics**, forthcoming"
 #publication_short = ""
 
 # Abstract and optional shortened version.
