@@ -51,9 +51,9 @@ url_source = ""
 
 
 # [[url_custom]]
-# name = "DIW Discussion Paper"
-# url = "https://www.diw.de/documents/publikationen/73/diw_01.c.591504.de/dp1740.pdf"
-
+    name = "Published Version"
+    url = "https://www.sciencedirect.com/science/article/pii/S0022199619300777?via%3Dihub"
+    
 # Does the content use math formatting?
 math = true
 
