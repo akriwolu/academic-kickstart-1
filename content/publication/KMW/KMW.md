@@ -52,7 +52,7 @@ url_source = ""
 
 # [[url_custom]]
    name = "Published Version"
-    url = "https://doi.org/10.1016/j.jinteco.2019.103253"
+    url = "https://www.sciencedirect.com/science/article/pii/S0165176519303155"
     
 # Does the content use math formatting?
 math = true
