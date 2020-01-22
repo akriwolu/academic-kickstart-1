@@ -22,7 +22,7 @@ publication = "**Journal of International Economics**, 121"
 #publication_short = ""
 
 # Abstract and optional shortened version.
-abstract = "We estimate the low‐frequency relationship between fiscal deficits and inflation and pay special attention to its potential time variation by estimating a time‐varying vector autoregression model for US data from 1900 to 2011. We find the strongest relationship neither in times of crisis nor in times of high public deficits, but from the mid 1960s up to 1980. Employing a structural decomposition of the low‐frequency relationship and further narrative evidence, we interpret our results such that the low‐frequency relationship between fiscal deficits and inflation is strongly related to the conduct of monetary policy and its interaction with fiscal policy after World War II."
+abstract = "We study a sovereign debt crisis in a small member state of a currency union. If the country exits the currency union, it may redenominate its liabilities and reduce the real value of debt through depreciation and inflation. We analyze formally how the anticipation of this possibility, “exit expectations”, impact the dynamics of the sovereign debt crisis. First, we show that public debt accumulates faster and sovereign yields increase more strongly because of redenomination risk. Second, we find that exit expectations induce public debt to be stagflationary. Last, we analyze Greek time-series data through the lens of our model and quantify the contribution of exit expectations to the Greek crisis"
 
 # Featured image thumbnail (optional)
 image_preview = ""
