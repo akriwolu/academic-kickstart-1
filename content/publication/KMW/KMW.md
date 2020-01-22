@@ -1,10 +1,10 @@
-+++
-title = „Exit expectations and debt crises in a currency union"
-date = "2019-08-23"
+ +++
+title = "On the low-frequency relationship between inflation and public deficits"
+date = "2016-07-01"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 
-authors = [ "Alexander Kriwoluzky" , "Gernot Mueller" ,"Martin Wolf"]
+authors = ["Martin Kliem" , "Alexander Kriwoluzky" , "Samad Sarferaz"]
 
 # Publication type.
 # Legend:
@@ -18,11 +18,11 @@ authors = [ "Alexander Kriwoluzky" , "Gernot Mueller" ,"Martin Wolf"]
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = „**Journal of International Economics**, forthcoming"
+publication = "**Journal of Applied Econometrics**, 31(3), 566-583"
 #publication_short = ""
 
 # Abstract and optional shortened version.
-abstract = "In this study, we determine the reliability and exogeneity of four popular monetary policy shock measures, namely the narrative series of Romer and Romer (2004), the high-frequency series of Barakchian and Crowe (2013), the high-frequency series of Gertler and Karadi (2015), and the hybrid series of Miranda-Agrippino and Ricco (2018b). To this end, we employ the Proxy-SVAR model and different empirical diagnostic tools to determine the shock measures’ information content. We find that the measure of Miranda-Agrippino and Ricco (2018b), combining the insights from the narrative approach and high-frequency identification, outperforms the other three series."
+abstract = "We estimate the low‐frequency relationship between fiscal deficits and inflation and pay special attention to its potential time variation by estimating a time‐varying vector autoregression model for US data from 1900 to 2011. We find the strongest relationship neither in times of crisis nor in times of high public deficits, but from the mid 1960s up to 1980. Employing a structural decomposition of the low‐frequency relationship and further narrative evidence, we interpret our results such that the low‐frequency relationship between fiscal deficits and inflation is strongly related to the conduct of monetary policy and its interaction with fiscal policy after World War II."
 
 # Featured image thumbnail (optional)
 image_preview = ""
@@ -50,7 +50,7 @@ url_source = ""
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
 [[url_custom]]
     name = "Published Version"
-    url = "https://www.sciencedirect.com/science/article/abs/pii/S0022199619300777"
+    url = "https://onlinelibrary.wiley.com/doi/full/10.1002/jae.2427"
 
 # Does the content use math formatting?
 math = true
