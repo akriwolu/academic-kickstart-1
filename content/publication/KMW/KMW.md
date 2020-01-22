@@ -1,5 +1,5 @@
 +++
-title = "Same, but different? Testing monetary policy shock measures"
+title = „Exit expectations and debt crises in currency unions"
 date = "2019-08-23"
 
 # Authors. Comma separated list, e.g. `["Alexander Kriwoluzky" , "Gernot Mueller" ,"Martin Wolf"]`.
@@ -18,7 +18,7 @@ authors = [ "Alexander Kriwoluzky" , "Gernot Mueller" ,"Martin Wolf"]
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "**Economics Letters**, forthcoming"
+publication = „**Journal of International Economics**, forthcoming"
 #publication_short = ""
 
 # Abstract and optional shortened version.
@@ -50,7 +50,7 @@ url_source = ""
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
 [[url_custom]]
     name = "Published Version"
-    url = "https://www.sciencedirect.com/science/article/pii/S0165176519303155"
+    url = "https://www.sciencedirect.com/science/article/abs/pii/S0022199619300777"
 
 # Does the content use math formatting?
 math = true
