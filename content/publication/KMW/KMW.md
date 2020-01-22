@@ -1,8 +1,8 @@
 +++
-title = „Exit expectations and debt crises in currency unions"
+title = „Exit expectations and debt crises in a currency union"
 date = "2019-08-23"
 
-# Authors. Comma separated list, e.g. `["Alexander Kriwoluzky" , "Gernot Mueller" ,"Martin Wolf"]`.
+# Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 
 authors = [ "Alexander Kriwoluzky" , "Gernot Mueller" ,"Martin Wolf"]
 
