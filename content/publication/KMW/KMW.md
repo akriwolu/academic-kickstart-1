@@ -1,5 +1,5 @@
  +++
-title = "On the low-frequency relationship between inflation and public deficits"
+title = "Exit expectations and debt crises in currency unions"
 date = "2016-07-01"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
