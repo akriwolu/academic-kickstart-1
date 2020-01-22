@@ -1,10 +1,10 @@
  +++
 title = "Exit expectations and debt crises in currency unions"
-date = "2016-07-01"
+date = "2019-12-12"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 
-authors = ["Alexander Kriwoluzky" , "Gernot Müller"]
+authors = ["Alexander Kriwoluzky" , "Gernot Müller", "Martin Wolf"]
 
 # Publication type.
 # Legend:
@@ -18,7 +18,7 @@ authors = ["Alexander Kriwoluzky" , "Gernot Müller"]
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "**Journal of Applied Econometrics**, 31(3), 566-583"
+publication = "**Journal of International Economics**, 121"
 #publication_short = ""
 
 # Abstract and optional shortened version.
