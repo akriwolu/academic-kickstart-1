@@ -1,10 +1,10 @@
 +++
-title = "Exit expectations in currency unions"
-date = "2019-09-01"
+title = "Same, but different? Testing monetary policy shock measures"
+date = "2019-08-23"
 
-# Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
+# Authors. Comma separated list, e.g. `["Alexander Kriwoluzky" , "Gernot Mueller" ,"Martin Wolf"]`.
 
-authors = ["Alexander Kriwoluzky" , "Gernot Mueller" ,"Martin Wolf" ]
+authors = [ "Alexander Kriwoluzky" , "Gernot Mueller" ,"Martin Wolf"]
 
 # Publication type.
 # Legend:
@@ -18,11 +18,11 @@ authors = ["Alexander Kriwoluzky" , "Gernot Mueller" ,"Martin Wolf" ]
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "**Journal of International Economics**, forthcoming"
+publication = "**Economics Letters**, forthcoming"
 #publication_short = ""
 
 # Abstract and optional shortened version.
-abstract = ""
+abstract = "In this study, we determine the reliability and exogeneity of four popular monetary policy shock measures, namely the narrative series of Romer and Romer (2004), the high-frequency series of Barakchian and Crowe (2013), the high-frequency series of Gertler and Karadi (2015), and the hybrid series of Miranda-Agrippino and Ricco (2018b). To this end, we employ the Proxy-SVAR model and different empirical diagnostic tools to determine the shock measures’ information content. We find that the measure of Miranda-Agrippino and Ricco (2018b), combining the insights from the narrative approach and high-frequency identification, outperforms the other three series."
 
 # Featured image thumbnail (optional)
 image_preview = ""
@@ -48,12 +48,10 @@ url_source = ""
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
-
-
-# [[url_custom]]
-   name = "Published Version"
+[[url_custom]]
+    name = "Published Version"
     url = "https://www.sciencedirect.com/science/article/pii/S0165176519303155"
-   
+
 # Does the content use math formatting?
 math = true
 
@@ -67,4 +65,3 @@ highlight = true
 #caption = "My caption :smile:"
 
 +++
-
