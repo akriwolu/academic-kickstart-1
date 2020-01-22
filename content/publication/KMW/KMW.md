@@ -50,7 +50,7 @@ url_source = ""
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
 [[url_custom]]
     name = "Published Version"
-    url = "https://onlinelibrary.wiley.com/doi/full/10.1002/jae.2427"
+    url = "www.sciencedirect.com/science/article/abs/pii/S0022199619300777"
 
 # Does the content use math formatting?
 math = true
