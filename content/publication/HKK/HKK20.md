@@ -1,5 +1,5 @@
 +++
-title = "The exchange rate and the information channel of monetary policy"
+title = "Exchange rates and the information channel of monetary policy"
 date = "2020-10-01"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
