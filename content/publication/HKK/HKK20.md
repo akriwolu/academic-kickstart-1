@@ -50,7 +50,7 @@ url_source = ""
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
 [[url_custom]]
 name = "DIW Discussion Paper"
-url = "https://www.diw.de/documents/publikationen/73/diw_01.c.790071.de/dp1872.pdf"
+url = "https://www.diw.de/documents/publikationen/73/diw_01.c.800745.de/dp1906.pdf"
 
 
 
