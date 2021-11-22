@@ -12,7 +12,7 @@ weight = 5
   interests = [
     "Empirical Macroeconomics",
     "Fiscal and Monetary Policy",
-    "Narrative Economics"
+    "Climate Change and Macroeconomics"
   ]
 
 # List your qualifications (such as academic degrees).
