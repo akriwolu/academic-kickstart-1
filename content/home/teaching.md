@@ -18,7 +18,7 @@ weight = 60
 
 Winter term: Frontier paper in Macroeconomics (Ph.D.)
 
-Summer term: Advanced Macroeconomics Analysis (Ph.D.)
+Summer term: Advanced Macroeconomics Analysis II (Ph.D.)
 
 **Past Teaching**
 
