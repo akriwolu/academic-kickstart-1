@@ -1,10 +1,10 @@
 +++
-title = "The Effects of Natural Disasters on Price Stability in the Euro Area"
-date = "2021-11-01"
+title = "Income Business Cycles"
+date = "2021-11-20"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 
-authors = ["John Beirne" , "Yannis Dafermos" , "Alexander Kriwoluzky", "Nuobu Renzhi" , "Ulrich Volz" , "Jana Wittich" ]
+authors = ["Geraldine Dany-Knedlik" , "Alexander Kriwoluzky", "Sandra Pasch"]
 
 # Publication type.
 # Legend:
