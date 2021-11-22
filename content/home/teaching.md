@@ -18,6 +18,8 @@ weight = 60
 
 Winter term: Frontier paper in Macroeconomics (Ph.D.)
 
+{{% staticref "files/citations/CV_Kriwoluzky_11_21.pdf" %}}Course outline{{% /staticref %}}
+
 Summer term: Advanced Macroeconomics Analysis II (Ph.D.)
 
 **Past Teaching**
