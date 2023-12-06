@@ -46,16 +46,6 @@ url_video = ""
 url_poster = ""
 url_source = ""
 
-# Custom links (optional).
-#   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
-#[[url_custom]]
-#name = "CEPR Discussion Paper"
-#url = "https://cepr.org/publications/dp18258"
-
-#[[url_custom]]
-#name = "DIW Discussion Paper"
-#url = "https://www.diw.de/documents/publikationen/73/diw_01.c.875812.de/dp2044.pdf"
-
 
 # Does the content use math formatting?
 math = true
