@@ -52,9 +52,7 @@ url_source = ""
 [[url_custom]]
 
 [[url_custom]]
-name = "DIW Discussion Paper"
 
-url = "https://www.diw.de/documents/publikationen/73/diw_01.c.868031.de/dp2033.pdf"
 
 [[url_custom]]
 
