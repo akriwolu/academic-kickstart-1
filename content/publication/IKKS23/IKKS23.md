@@ -1,5 +1,5 @@
 +++
-title = "The term structure of redenomination risk"
+title = "The Energy-Price Channel of (European) Monetary Policy"
 date = "2023-10-15"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
