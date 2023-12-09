@@ -57,10 +57,6 @@ url = "https://cepr.org/publications/dp18258"
 name = "DIW Discussion Paper"
 url = "https://www.diw.de/documents/publikationen/73/diw_01.c.875812.de/dp2044.pdf"
 
-[[url_custom]]
-name = "VOX EU"
-url = "https://voxeu.org/article/measuring-risk-euro-area-breakup"
-
 
 # Does the content use math formatting?
 math = true
