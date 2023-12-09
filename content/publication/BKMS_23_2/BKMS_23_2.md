@@ -55,7 +55,7 @@ url = "https://cepr.org/publications/dp18258"
 
 [[url_custom]]
 name = "DIW Discussion Paper"
-url = "https://www.diw.de/documents/publikationen/73/diw_01.c.875812.de/dp2044.pdf"
+url = "https://www.diw.de/documents/publikationen/73/diw_01.c.884321.de/dp2056.pdf"
 
 [[url_custom]]
 name = "VOX EU"
