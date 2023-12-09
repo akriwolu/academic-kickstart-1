@@ -1,5 +1,5 @@
 +++
-title = "The term structure of redenomination risk"
+title = "A HANK2 model of monetary unions"
 date = "2023-11-05"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
