@@ -1,5 +1,5 @@
 +++
-title = "Hicks in HANK: fiscal responses to an energy shock"
+title = "Hicks in HANK: Fiscal Responses to an Energy Shock"
 date = "2023-11-05"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
