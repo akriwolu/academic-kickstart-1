@@ -16,10 +16,9 @@ weight = 60
 +++
 **Current Teaching**
 
-Winter term: Frontier paper in Macroeconomics (Ph.D.)
+Winter term: none
 
-{{% staticref "files/citations/outline_topics.pdf" %}}Course outline{{% /staticref %}}
-
+#{{% staticref "files/citations/outline_topics.pdf" %}}Course outline{{% /staticref %}}
 
 
 Summer term: Advanced Macroeconomics Analysis II (Ph.D.)
@@ -34,5 +33,6 @@ Summer term: Advanced Macroeconomics Analysis II (Ph.D.)
 * Monetary Economics (B.Sc. / M.Sc.)
 * Monetary Macro and Beyond: Faust II (B.Sc.)
 * Topics in Macroeconomics (Ph.D.)
+* Frontier paper in Macroeconomics (Ph.D.)
 
 
