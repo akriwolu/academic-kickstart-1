@@ -1,5 +1,5 @@
 +++
-title = "A HANK2 model of monetary unions"
+title = "Hicks in HANK: fiscal responses to an energy shock"
 date = "2023-11-05"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
