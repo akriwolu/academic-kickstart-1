@@ -50,7 +50,7 @@ url_source = ""
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
 [[url_custom]]
 name = "CEPR Discussion Paper"
-url = "https://cepr.org/active/publications/discussion_papers/dp.php?dpno=12965"
+url = "https://cepr.org/active/publications/dp18258"
 
 [[url_custom]]
 name = "DIW Discussion Paper"
