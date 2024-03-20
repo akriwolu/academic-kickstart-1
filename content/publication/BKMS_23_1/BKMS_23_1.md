@@ -1,6 +1,6 @@
 +++
 title = "A HANK2 model of Monetary Unions"
-date = "2023-11-05"
+date = "2024-01-02"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 
