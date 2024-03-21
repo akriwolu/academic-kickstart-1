@@ -1,6 +1,6 @@
 +++
 title = "Financial Repression in General Equilibrium: The Case of the United States, 1948–1974"
-date = "2024-03-30"
+date = "2024-03-10"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 
