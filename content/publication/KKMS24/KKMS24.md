@@ -51,7 +51,7 @@ url_source = ""
 
 [[url_custom]]
 name = "DIW Discussion Paper"
-url = "https://www.diw.de/documents/publikationen/73/diw_01.c.884321.de/dp2056.pdf"
+url = "https://www.diw.de/documents/publikationen/73/diw_01.c.897748.de/dp2075.pdf"
 
 
 # Does the content use math formatting?
