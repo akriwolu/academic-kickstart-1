@@ -1,6 +1,6 @@
 +++
-title = "Exchange rates and the information channel of monetary policy"
-date = "2020-10-01"
+title = "Is There an Information Channel of Monetary Policy?"
+date = "2024-02-01"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 
@@ -50,9 +50,7 @@ url_source = ""
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
 [[url_custom]]
 name = "DIW Discussion Paper"
-url = "https://www.diw.de/documents/publikationen/73/diw_01.c.800745.de/dp1906.pdf"
-
-
+url = "https://www.diw.de/documents/publikationen/73/diw_01.c.902639.de/dp2084.pdf"
 
 # Does the content use math formatting?
 math = true
