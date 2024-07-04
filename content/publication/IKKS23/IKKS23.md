@@ -1,6 +1,6 @@
 +++
-title = "The Energy-Price Channel of (European) Monetary Policy"
-date = "2023-10-15"
+title = "Friend, Not Foe - Energy Prices and European Monetary Policy"
+date = "2024-07-01"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 
@@ -51,7 +51,7 @@ url_source = ""
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
 [[url_custom]]
 name = "DIW Discussion Paper"
-url = "https://www.diw.de/documents/publikationen/73/diw_01.c.868031.de/dp2033.pdf"
+url = "https://www.diw.de/documents/publikationen/73/diw_01.c.907117.de/dp2089.pdf"
 
 # Does the content use math formatting?
 math = true
