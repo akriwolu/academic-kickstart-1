@@ -1,6 +1,6 @@
 +++
-title = "The Effects of Natural Disasters on Price Stability in the Euro Area"
-date = "2021-11-01"
+title = "Weather-related Disasters and Inflation in the Euro Area"
+date = "2024-11-08"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 
