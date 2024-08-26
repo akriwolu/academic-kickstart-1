@@ -1,6 +1,6 @@
 +++
 title = "Weather-related Disasters and Inflation in the Euro Area"
-date = "2024-11-08"
+date = "2024-08-11"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 
