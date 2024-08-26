@@ -18,7 +18,9 @@ authors = ["John Beirne" , "Yannis Dafermos" , "Alexander Kriwoluzky", "Nuobu Re
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = ""
+
+# Publication name and optional abbreviated version.
+publication = "**Journal of Banking and Finance**, forthcoming"
 #publication_short = ""
 
 # Abstract and optional shortened version.
@@ -28,7 +30,7 @@ abstract = ""
 image_preview = ""
 
 # Is this a selected publication? (true/false)
-selected = true
+selected = false
 
 # Projects (optional).
 #   Associate this publication with one or more of your projects.
