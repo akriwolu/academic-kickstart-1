@@ -16,7 +16,10 @@ weight = 60
 +++
 **Current Teaching**
 
-Winter term: none
+Winter term: Monetary theory (B.Sc.)
+
+[Syllabus_monetary_theory_2024.pdf](https://github.com/user-attachments/files/16944807/Syllabus_monetary_theory_2024.pdf)
+
 
 Summer term: Advanced Macroeconomics Analysis II (Ph.D.)
 
