@@ -20,7 +20,7 @@ publication_types = ["2"]
 # Publication name and optional abbreviated version.
 
 # Publication name and optional abbreviated version.
-publication = "**Journal of Banking and Finance**, accepted"
+publication = "**Journal of Banking and Finance**, 169"
 #publication_short = ""
 
 # Abstract and optional shortened version.
