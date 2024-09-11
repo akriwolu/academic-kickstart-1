@@ -50,6 +50,13 @@ url_source = ""
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
+
+[[url_custom]]
+name = "Published Version"
+url = "https://www.sciencedirect.com/science/article/pii/S0304393224000321"
+
+
+
 [[url_custom]]
 name = "CEPR Discussion Paper"
 url = "https://cepr.org/publications/dp18258"
