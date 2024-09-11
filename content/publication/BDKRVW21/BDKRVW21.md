@@ -52,6 +52,9 @@ url_source = ""
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
 
 [[url_custom]]
+name = "Published Version" 
+url = "[https://www.sciencedirect.com/science/article/pii/S0165176519303155]"
+
 name = "DIW Discussion Paper"
 url = "https://www.diw.de/documents/publikationen/73/diw_01.c.829788.de/dp1981.pdf"
 
