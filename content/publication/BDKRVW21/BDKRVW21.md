@@ -53,8 +53,10 @@ url_source = ""
 
 [[url_custom]]
 name = "Published Version" 
-url = "[https://www.sciencedirect.com/science/article/pii/S0165176519303155]"
+url = "https://www.sciencedirect.com/science/article/pii/S0378426624002127?via%3Dihub"
 
+
+[[url_custom]]
 name = "DIW Discussion Paper"
 url = "https://www.diw.de/documents/publikationen/73/diw_01.c.829788.de/dp1981.pdf"
 
