@@ -20,7 +20,7 @@ publication_types = ["2"]
 # Publication name and optional abbreviated version.
 
 # Publication name and optional abbreviated version.
-publication = "**Journal of Monetary Economics**, 147, October 2024"
+publication = "**Journal of Monetary Economics**, 147"
 #publication_short = ""
 
 # Abstract and optional shortened version.
