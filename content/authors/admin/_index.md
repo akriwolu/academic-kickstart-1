@@ -54,4 +54,4 @@ highlight_name: true
 
 I am the head of the Department of Macroeconomics at the German Institute for Economic Research in Berlin and Professor of Macroeconomics at Freie Universität Berlin. I also serve as associate editor at the European Economic Review.
 
-{{< staticref "files/citations/CV_Kriwoluzky_03_24.pdf" "newtab" >}}Download my CV{{< /staticref >}}
+[Download my CV](/files/citations/CV_Kriwoluzky_03_24.pdf)
