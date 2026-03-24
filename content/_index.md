@@ -1,15 +1,34 @@
 ---
-# Leave the homepage blank - sections handle everything
+# Leave the homepage title empty to use the site title
 title: ''
+summary: ''
 date: 2024-01-01
 type: landing
 
+design:
+  spacing: '6rem'
+
 sections:
-  - block: about.avatar
-    id: about
+  - block: resume-biography-3
     content:
-      title: Biography
-      username: admin
+      username: me
+      text: ''
+      button:
+        text: Download CV
+        url: files/citations/CV_Kriwoluzky_03_24.pdf
+      headings:
+        about: ''
+        education: ''
+        interests: ''
+    design:
+      background:
+        gradient_mesh:
+          enable: true
+      name:
+        size: md
+      avatar:
+        size: medium
+        shape: circle
   - block: markdown
     id: working-papers
     content:
@@ -23,13 +42,12 @@ sections:
     id: publications
     content:
       title: Publications
+      text: ''
       filters:
         folders:
           - publication
-        publication_types:
-          - 'article-journal'
+        exclude_featured: false
     design:
-      columns: '2'
       view: citation
   - block: markdown
     id: teaching
