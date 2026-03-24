@@ -1,0 +1,11 @@
+{
+  "name": "academic-kickstart-1",
+  "version": "1.0.0",
+  "description": "Academic website",
+  "scripts": {
+    "build": "hugo"
+  },
+  "dependencies": {
+    "tailwindcss": "^3.4.0"
+  }
+}

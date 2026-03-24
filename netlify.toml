@@ -1,10 +1,11 @@
 [build]
   publish = "public"
-  command = "hugo mod tidy && hugo"
+  command = "npm install && hugo mod tidy && hugo"
 
 [build.environment]
   HUGO_VERSION = "0.153.0"
   GO_VERSION = "1.22.1"
+  NODE_VERSION = "18"
   TZ = "Europe/Berlin"
 
 [context.production.environment]
