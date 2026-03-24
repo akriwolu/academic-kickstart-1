@@ -1,0 +1,50 @@
+# SITE SETUP
+appearance:
+  theme_day: minimal
+  theme_night: minimal
+  font: native
+  font_size: L
+
+features:
+  privacy_pack: false
+  hide_author_date: false
+  show_related: false
+  math: false
+  highlight: true
+  search:
+    enable: true
+
+# SEO
+marketing:
+  seo:
+    site_type: Person
+    local_business_type: ''
+    org_name: ''
+    description: 'Professor of Macroeconomics at Freie Universität Berlin and Head of the Department of Macroeconomics at DIW Berlin.'
+    twitter: ''
+
+# CONTACT
+email: akriwoluzky@diw.de
+address:
+  street: Mohrenstr. 58
+  city: Berlin
+  postcode: '10117'
+  country: Germany
+  country_code: DE
+coordinates:
+  latitude: '52.512269'
+  longitude: '13.388648'
+
+contact_links: []
+
+# SOCIAL
+social:
+  - icon: envelope
+    icon_pack: fas
+    link: 'mailto:akriwoluzky@diw.de'
+  - icon: google-scholar
+    icon_pack: ai
+    link: 'https://scholar.google.com/citations?user=m9yBDI8AAAAJ&hl=da'
+  - icon: github
+    icon_pack: fab
+    link: 'https://github.com/akriwolu'

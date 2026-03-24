@@ -3,9 +3,10 @@
   command = "hugo"
 
 [build.environment]
-  GIT_SUBMODULE_STRATEGY = "recursive"
+  HUGO_VERSION = "0.124.1"
+  GO_VERSION = "1.22.1"
+  TZ = "Europe/Berlin"
 
 [context.production.environment]
-  HUGO_VERSION = "0.58.3"
   HUGO_ENV = "production"
   HUGO_ENABLEGITINFO = "true"

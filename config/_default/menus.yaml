@@ -1,0 +1,16 @@
+main:
+  - name: Home
+    url: '#about'
+    weight: 1
+  - name: Working Papers
+    url: '#working-papers'
+    weight: 2
+  - name: Publications
+    url: '#publications'
+    weight: 3
+  - name: Teaching
+    url: '#teaching'
+    weight: 4
+  - name: Contact
+    url: '#contact'
+    weight: 5
