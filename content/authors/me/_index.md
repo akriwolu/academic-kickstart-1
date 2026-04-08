@@ -28,13 +28,12 @@ interests:
   - Climate Change and Macroeconomics
 
 education:
-  courses:
-    - course: Ph.D. in Economics
-      institution: Humboldt-Universität zu Berlin
-      year: 2009
-    - course: M.Sc. in Economics
-      institution: Humboldt-Universität zu Berlin
-      year: 2004
+  - degree: Ph.D. in Economics
+    institution: Humboldt-Universität zu Berlin
+    year: 2009
+  - degree: M.Sc. in Economics
+    institution: Humboldt-Universität zu Berlin
+    year: 2004
 
 # Social links
 social:
